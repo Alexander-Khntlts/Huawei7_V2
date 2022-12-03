@@ -27,6 +27,6 @@ $ git pull
 
 $ ls
 
-$ python Huawei7_V2.py
+$ python FerlyXD
 
 Jangan lupa Kasih Bintang🗿🗿🔥🔥👌

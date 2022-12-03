@@ -1,3 +1,14 @@
+Welcome
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+
+<details>
+  <summary><b>More information</b></summary>
+
+#### ★ Social Accounts ★
+<a href="https://m.facebook.com/uchieell.neww"><img src="https://raw.githubusercontent.com/Dumai-991/Dumai-991/main/Image/images.png" alt="alt text" width="75" height="75"></a>
+
+
 $ pkg update && pkg upgrade
 
 $ pkg install python
@@ -8,12 +19,14 @@ $ pip install bs4
 
 $ pip install rich
 
-$ git clone https://github.com/SuwanXD/huawei7_V2
+$ git clone https://github.com/Alexander-Khntlts/Huawei7_V2
 
-$ cd huawei_V2
+$ cd Huawei7_V2
+
+$ git pull
 
 $ ls
 
-$ python Huawei_V2.py
+$ python Huawei7_V2.py
 
 Jangan lupa Kasih Bintang🗿🗿🔥🔥👌
